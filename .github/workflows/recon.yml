@@ -1,4 +1,4 @@
-name: 🐛 DPG Media (Het Parool) Intigriti Recon — Every 10 Hours
+name: 🐛andurdril Hackerone Recon — Every 10 Hours
 
 on:
   workflow_dispatch:
