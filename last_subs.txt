@@ -846,6 +846,7 @@ cuas-dev.andurildev.com
 cuas-dev.dev.anduril.com
 cuas.andurildev.com
 cuas.dev.anduril.com
+current-metrics.qa.eng.anduril.dev
 current-qa.eng.anduril.dev
 current-stg.eng.anduril.dev
 current.eng.anduril.dev
@@ -2386,6 +2387,7 @@ qri-labor-dashboard.qa.eng.anduril.dev
 qri-material-stock-analysis.non-prod.eng.anduril.dev
 qri-urs-lineside-health.non-prod.eng.anduril.dev
 qri-urs-quality-mrb-dashboard.non-prod.eng.anduril.dev
+qri-urs-quality-mrb-dashboard.qa.eng.anduril.dev
 quality-compass-qa.eng.anduril.dev
 quality-compass-stg.eng.anduril.dev
 quality-compass.non-prod.eng.anduril.dev
@@ -2857,6 +2859,7 @@ sydn2-dotmatrix.network.anduril.com
 synapse-dev.security.anduril.dev
 syson.mdp-sandbox.eng.anduril.dev
 system-security-baseline-builder.non-prod.eng.anduril.dev
+t-e-personnel-ops-tracker.qa.eng.anduril.dev
 t1-0.silex.andurildev.com
 t1-call-sim.non-prod.eng.anduril.dev
 t2-0.silex.andurildev.com
