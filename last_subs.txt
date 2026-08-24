@@ -657,6 +657,7 @@ ca.dev.menace-pki.anduril.com
 ca.menace-pki.anduril.com
 cachix.anduril.au
 cachix.anduril.dev
+cachix.andurildev.au
 cad-decimation.hm-poc.anduril.dev
 caiman2.andurildev.com
 cameo.eng.anduril.dev
@@ -1057,7 +1058,6 @@ dop-qa.eng.anduril.dev
 dop-stg.eng.anduril.dev
 dop.non-prod.eng.anduril.dev
 dops-deployment-analytics.non-prod.eng.anduril.dev
-dp.anduril.com
 draco.anduril.com
 dragnet-qa.eng.anduril.dev
 dragnet-stg.eng.anduril.dev
@@ -1158,7 +1158,6 @@ ersa.andurildev.com
 ess-dev.andurildev.com
 eud.akm.anduril.com
 eudops-dev.akm.anduril.com
-eudops-prod.akm.anduril.com
 ew-infra.ew.anduril.dev
 ew-staff-plan-qa.eng.anduril.dev
 ew-staff-plan.non-prod.eng.anduril.dev
@@ -1366,6 +1365,7 @@ ghost.arena-atlas.eng.anduril.dev
 ghost.dev.anduril.com
 gide8.anduril.com
 gide8.andurildev.com
+ginkgo.anduril.com
 git.anduril.dev
 github.anduril.dev
 gitlab-newton.security.anduril.dev
@@ -1981,7 +1981,6 @@ mfgops-prod.akm.anduril.com
 mfx-feedback.non-prod.eng.anduril.dev
 mhi.anduril.com
 mhry1-dotmatrix.network.anduril.com
-mhry1-qt9-w01.corp.anduril.com
 mhry1-qt9.corp.anduril.com
 mhry1-qt9.network.anduril.com
 michael-bot.non-prod.eng.anduril.dev
@@ -2348,6 +2347,7 @@ prod.crp-sec.anduril.dev
 prod.teleport.anduril.dev
 prodsec-dsb.andurildev.com
 prodsec.anduril.dev
+profile-api.non-prod.eng.anduril.dev
 project-code-roster-app.non-prod.eng.anduril.dev
 project-code-roster.non-prod.eng.anduril.dev
 project.erp.anduril.dev
@@ -2508,7 +2508,6 @@ roadrunner.anduril.dev
 rollouts.chidori-dev.eng.anduril.dev
 rollouts.chidori.eng.anduril.dev
 rolodex.anduril.dev
-root.anduril.com
 rosemary.anduril.com
 rps.mfx.andurildev.com
 rules-engine.anduril.dev
@@ -2587,7 +2586,6 @@ sanitize.security.anduril.dev
 sat.anduril.com
 satori.anduril.dev
 saturn.anduril.au
-saturn.anduril.com
 sauron-agent.non-prod.eng.anduril.dev
 sauron-qa.eng.anduril.dev
 sauron-stg.eng.anduril.dev
@@ -2691,7 +2689,6 @@ sie.mimosa.anduril.com
 sie.rcv-external.andurildev.com
 sie.sitl-manager-dev.andurildev.com
 sie.sitl.anduril.dev
-sie.tdm.anduril.com
 sim-0-oai.mfx.andurildev.com
 sim-infra-prod.dev.anduril.com
 sim-infra.dev.anduril.com
@@ -2904,13 +2901,13 @@ tc.anduril.dev
 tc.eng.anduril.au
 tc.eng.anduril.dev
 tc.eng.andurildev.au
-tdm-dev.tdm.anduril.com
 tdo-moretest.itools-dev.anduril.dev
 tdo-test-api-ext-api-integration.itools-dev.anduril.dev
 tdo-test.itools-qa.anduril.dev
 tdo-test2.itools.anduril.dev
 te-sitrep.non-prod.eng.anduril.dev
 te-sitrep.qa.eng.anduril.dev
+te-training-projects.qa.eng.anduril.dev
 teamcenter-eval.corp.anduril.dev
 teamcenter-writeback-server-qa.eng.anduril.dev
 teamcenter-writeback-server-stg.eng.anduril.dev
