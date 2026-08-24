@@ -657,7 +657,6 @@ ca.dev.menace-pki.anduril.com
 ca.menace-pki.anduril.com
 cachix.anduril.au
 cachix.anduril.dev
-cachix.andurildev.au
 cad-decimation.hm-poc.anduril.dev
 caiman2.andurildev.com
 cameo.eng.anduril.dev
@@ -1652,6 +1651,7 @@ jira-people.anduril.dev
 jira-stage-hdplus.corp.anduril.dev
 jira-stage-infosec.anduril.dev
 jira-stage.anduril.dev
+jira-test.anduril.au
 jira-vygr.anduril.dev
 jira.anduril.au
 jira.anduril.dev
