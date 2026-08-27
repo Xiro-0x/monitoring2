@@ -121,6 +121,7 @@ adam.eng.anduril.dev
 adam.non-prod.eng.anduril.dev
 adma-query.non-prod.eng.anduril.dev
 admin.agd-data-analytics.gov.anduril.dev
+admin.andurildev.au
 admin.etl-dev.gov.anduril.dev
 admin.ml-prod.gov.anduril.dev
 admin.rdf-dev.gov.anduril.dev
@@ -327,6 +328,7 @@ app-infra-sandbox.andurildev.com
 app-infra.andurildev.com
 app-infra.dev.anduril.com
 app.anduril.com.au
+app.andurildev.au
 app.andurildev.com
 app.aw-remote.anduril.dev
 app.bazel.anduril.dev
@@ -374,6 +376,7 @@ argocd.eng.anduril.dev
 argocd.forge-dev.eng.anduril.dev
 argocd.forge-mgmt.anduril.dev
 argocd.itools-dev.anduril.dev
+argocd.rke2-sandbox.andurildev.com
 argocd.shared-services.itools.anduril.dev
 argus-dev.andurildev.com
 ariel.itools.anduril.dev
@@ -509,6 +512,7 @@ aw-remote.bazel.anduril.dev
 awc.tc.eng.anduril.au
 aws-revert-test.non-prod.eng.anduril.dev
 aws.anduril.com.au
+aws.andurildev.au
 axon-ci.andurildev.com
 axon.andurildev.com
 azure.foundations.anduril.dev
@@ -645,6 +649,7 @@ ca.dev.menace-pki.anduril.com
 ca.menace-pki.anduril.com
 cachix.anduril.au
 cachix.anduril.dev
+cachix.andurildev.au
 cad-decimation.hm-poc.anduril.dev
 caiman2.andurildev.com
 cameo.eng.anduril.dev
@@ -695,6 +700,7 @@ chaos.anduril.com
 chariot.andurildev.com
 chariot.chariot.andurildev.com
 chart-gen.anduril.dev
+charts.andurildev.com
 chat.anduril.dev
 chat.andurildev.com
 chestnut.anduril.com
@@ -931,6 +937,7 @@ desert-guardian.anduril.com
 design-survival-guide-qa.eng.anduril.dev
 design-survival-guide.non-prod.eng.anduril.dev
 dev-1.andurildev.com
+dev-2.andurildev.com
 dev-beef-fms.plm.anduril.dev
 dev-beef-soa.plm.anduril.dev
 dev-beef.plm.anduril.dev
@@ -983,6 +990,7 @@ dil-azure.anduril.com
 dil-char-unclass-peer-1.dil-char.andurildev.com
 dil-char-unclass-peer-2.dil-char.andurildev.com
 dil-char-unclass-peer-3.dil-char.andurildev.com
+dil-char-unclass-ra.dil-char.andurildev.com
 dil-demo-secret-peer-1.dil-demo.andurildev.com
 dil-demo-secret-peer-2.dil-demo.andurildev.com
 dil-demo-secret-ra.dil-demo.andurildev.com
@@ -992,6 +1000,7 @@ dil-demo-topsecret-ra.dil-demo.andurildev.com
 dil-demo-unclass-peer-1.dil-demo.andurildev.com
 dil-demo-unclass-peer-2.dil-demo.andurildev.com
 dil-demo-unclass-ra.dil-demo.andurildev.com
+dil-ext.dil-test.andurildev.com
 dil-training.anduril.com
 dil.anduril.com
 dirac.buildos-dev.anduril.dev
@@ -1028,6 +1037,7 @@ docs-preview.mfx.andurildev.com
 docs.ads.anduril.dev
 docs.anduril.com
 docs.anduril.dev
+docs.andurildev.au
 docs.catalyst.anduril.dev
 docs.ew.anduril.dev
 docs.helix.anduril.dev
@@ -1109,6 +1119,7 @@ engos-thermalstruct.non-prod.eng.anduril.dev
 env.brokkr.anduril.com
 env.cedar.sie.andurildev.com
 env.kal-sandbox.anduril.com
+env.pine.sie.andurildev.com
 env.prime.sie.andurildev.com
 env.rcv-sie.andurildev.com
 env.rcv.sie.anduril.dev
@@ -1200,6 +1211,8 @@ fiftyone.lonestar.etl-dev.gov.anduril.dev
 final-10.non-prod.eng.anduril.dev
 final-test.non-prod.eng.anduril.dev
 fire.andurildev.com
+fleet-0.andurildev.com
+fleet-1.andurildev.com
 fleet-agent.security.anduril.dev
 fleet-management.andurildev.com
 fleet.security.anduril.dev
@@ -1219,6 +1232,7 @@ flyte-grafana.gov.anduril.dev
 flyte.agd-data-analytics.gov.anduril.dev
 flyte.anduril.au
 flyte.anduril.dev
+flyte.bifrost-dev.andurildev.com
 flyte.chariot.andurildev.com
 flyte.crocodile.anduril.au
 flyte.dev.pallas.anduril.dev
@@ -1383,6 +1397,7 @@ glops-weekly-tracker.non-prod.eng.anduril.dev
 gntc-pdq.anduril.dev
 go.anduril.au
 go.anduril.dev
+go.andurildev.au
 golden-lkd-cluster.andurildev.com
 golden-lkd-dev.andurildev.com
 golden-lkd.andurildev.com
@@ -1486,6 +1501,7 @@ hivemq.mdp-sandbox.eng.anduril.dev
 hm-poc.anduril.dev
 hoist.anduril.dev
 home.anduril.dev
+home.andurildev.au
 hoop.jip.anduril.com
 horde.mdp-dev.eng.anduril.dev
 horizon-qa.eng.anduril.dev
@@ -1617,9 +1633,11 @@ jays-and-cees.eng.anduril.dev
 jays-and-cees.non-prod.eng.anduril.dev
 jboyer-mcp-connectors-qa.eng.anduril.dev
 jboyer-mcp-connectors.non-prod.eng.anduril.dev
+jcg-super-repo.non-prod.eng.anduril.dev
 jci-dev.eng.anduril.dev
 jci.eng.anduril.dev
 jci.jama.andurildev.com
+jenkins.andurildev.au
 jiatf-integrations.anduril.com
 jip-test.anduril.dev
 jip.anduril.dev
@@ -1812,6 +1830,7 @@ longbow-cdstest2-unclass.anduril.com
 longbow-dev.andurildev.com
 longbow-high-ra-eks.anduril.com
 longbow-high-ra-eks.andurildev.com
+longbow-high-ra2-trinode.andurildev.com
 longbow-test.andurildev.com
 longbow.anduril.com
 longbow.anduril.dev
@@ -1820,6 +1839,7 @@ louie-bot.non-prod.eng.anduril.dev
 lrpm-dev.anduril.com
 lsc2-ksat-rfct.anduril.com
 lsc2-test-runner.andurildev.com
+lupine.anduril.com
 ma-demo.andurildev.com
 ma-demo.dev.anduril.com
 ma-fleet-ops.non-prod.eng.anduril.dev
@@ -1834,6 +1854,7 @@ madis-ces.anduril.com
 magnum.andurildev.com
 mail.anduril.com.au
 mail1.anduril.com
+mail1.andurildev.au
 mail2.anduril.com
 manufacturing-demo.mdp-dev.eng.anduril.dev
 manufacturing-qa.anduril.com
@@ -1993,6 +2014,7 @@ mobile-sentry.andurildev.com
 mock.dev.odoo.anduril.dev
 moneypenny.non-prod.eng.anduril.dev
 monitor.anduril.com
+monitor.andurildev.au
 monitor.dev.whatfix.anduril.dev
 monitor.whatfix.anduril.dev
 monitor.whatfix.dev.anduril.dev
@@ -2017,6 +2039,7 @@ mwg.lattice.nova.anduril.au
 mwg.primary.asv.maritime.anduril.com
 mwg.sandbox.andurildev.au
 n0-0.crucible.andurildev.com
+n0.apollo-trial.andurildev.com
 n0.crucible.andurildev.com
 n0.ldm.anduril.com
 n1-0.crucible.andurildev.com
@@ -2029,8 +2052,20 @@ n2.ldm.anduril.com
 n3.crucible.andurildev.com
 n3.east.ast-dev.anduril.com
 n3.ldm.anduril.com
+n4-0.crucible.andurildev.com
+n4-1.crucible.andurildev.com
+n4-2.crucible.andurildev.com
+n4-3.crucible.andurildev.com
+n4-4.crucible.andurildev.com
+n4-5.crucible.andurildev.com
 n4.crucible.andurildev.com
 n4.ldm.anduril.com
+n5-0.crucible.andurildev.com
+n5-1.crucible.andurildev.com
+n5-2.crucible.andurildev.com
+n5-3.crucible.andurildev.com
+n5-4.crucible.andurildev.com
+n5-5.crucible.andurildev.com
 n5.crucible.andurildev.com
 n5.ldm.anduril.com
 n6.ldm.anduril.com
@@ -2070,6 +2105,7 @@ nimbus.foundations-dev.anduril.dev
 nimbus.foundations.anduril.dev
 nix.andurildev.com
 nix.dev.anduril.com
+node-0.longbow-obs-east.andurildev.com
 node-0.longbow-obs-west.andurildev.com
 northstar.mdp-sandbox.eng.anduril.dev
 notes.mfx.andurildev.com
@@ -2081,6 +2117,7 @@ noxa.andurildev.com
 npd360-dev-tracker.non-prod.eng.anduril.dev
 nr22-demo.saturn.anduril.au
 nr22.saturn.anduril.au
+ns3.andurildev.au
 ns4.anduril.com
 nswc-crane.anduril.com
 oa-digest-qa.eng.anduril.dev
@@ -2094,6 +2131,7 @@ obs-sandbox-cluster.andurildev.com
 obs-sandbox-dev.andurildev.com
 observability-edge.andurildev.com
 observability-island-dev.andurildev.com
+observability-trinode.anduril-dev-sandbox.andurildev.com
 observability-trinode.andurildev.com
 observability.andurildev.com
 observability.dev.anduril.com
@@ -2281,6 +2319,7 @@ prime.andurildev.com
 prime.sie.andurildev.com
 prime.sitlm.anduril.dev
 private-eye.non-prod.eng.anduril.dev
+private.andurildev.au
 prod-jip-gov.anduril.dev
 prod-otto-test.non-prod.eng.anduril.dev
 prod-ready-dynamo.non-prod.eng.anduril.dev
@@ -2302,6 +2341,7 @@ prod.anduril.com.au
 prod.andurildev.com
 prod.bouncer.security.anduril.dev
 prod.crp-sec.anduril.dev
+prod.mdm.fleetdm.security.anduril.dev
 prod.teleport.anduril.dev
 prodsec-dsb.andurildev.com
 prodsec.anduril.dev
@@ -2369,6 +2409,8 @@ quota-enforcer.non-prod.eng.anduril.dev
 r2c2.lepus.anduril.com
 rafl.anduril.com
 rancher.id2e-dev.andurildev.com
+rancher.image-builder.andurildev.com
+rancher.observability-edge.andurildev.com
 rancher.rke2-sandbox.andurildev.com
 rchat.anduril.dev
 rcv-external.andurildev.com
@@ -2467,6 +2509,7 @@ roadrunner.anduril.dev
 rollouts.chidori-dev.eng.anduril.dev
 rollouts.chidori.eng.anduril.dev
 rolodex.anduril.dev
+root.anduril.com
 rosemary.anduril.com
 rps.mfx.andurildev.com
 rules-engine.anduril.dev
@@ -2474,11 +2517,15 @@ rupiah-plus.anduril.com.au
 rz.security.anduril.dev
 s007d.sandbox.sitl-manager-dev.andurildev.com
 s0198.sandbox.sitl-manager-dev.andurildev.com
+s0494.sandbox.sitl-manager-dev.andurildev.com
 s100f.sandbox.sitl-manager-dev.andurildev.com
 s1a10.sandbox.sitl-manager-dev.andurildev.com
+s21b4.sandbox.sitl-manager-dev.andurildev.com
 s2fc3.sandbox.sitl-manager-dev.andurildev.com
 s3.anduril.com.au
 s32c7.sandbox.sitl-manager-dev.andurildev.com
+s4d6b.sandbox.sitl-manager-dev.andurildev.com
+s53e7.sandbox.sitl-manager-dev.andurildev.com
 s67be.sandbox.sitl-manager-dev.andurildev.com
 s8910.sandbox.sitl-manager-dev.andurildev.com
 s8d6f.sandbox.sitl-manager-dev.andurildev.com
@@ -2540,6 +2587,7 @@ sanitize.security.anduril.dev
 sat.anduril.com
 satori.anduril.dev
 saturn.anduril.au
+saturn.anduril.com
 sauron-agent.non-prod.eng.anduril.dev
 sauron-qa.eng.anduril.dev
 sauron-stg.eng.anduril.dev
@@ -2588,6 +2636,7 @@ sdanet.andurildev.com
 se1c9.sandbox.sitl-manager-dev.andurildev.com
 se8d1.sandbox.sitl-manager-dev.andurildev.com
 seapower.anduril.com
+sec-news-feedback.non-prod.eng.anduril.dev
 secgate-qa.eng.anduril.dev
 secgate.non-prod.eng.anduril.dev
 secret-peer-1.dil-test.andurildev.com
@@ -2616,6 +2665,7 @@ serpent.anduril.com
 sevencs.dive.anduril.dev
 sf3b7.sandbox.sitl-manager-dev.andurildev.com
 sf467.sandbox.sitl-manager-dev.andurildev.com
+sf9d7.sandbox.sitl-manager-dev.andurildev.com
 sfw-dev.security.anduril.dev
 shafter.usarmy.anduril.com
 sharon-test.non-prod.eng.anduril.dev
@@ -2816,6 +2866,7 @@ system-security-baseline-builder.non-prod.eng.anduril.dev
 t-e-personnel-ops-tracker.qa.eng.anduril.dev
 t1-0.silex.andurildev.com
 t1-call-sim.non-prod.eng.anduril.dev
+t1-call-sim.qa.eng.anduril.dev
 t2-0.silex.andurildev.com
 t3-0.silex.andurildev.com
 t4ea.plm.anduril.dev
@@ -2938,6 +2989,7 @@ test.non-prod.eng.anduril.dev
 test.plm.anduril.dev
 test.security.anduril.dev
 test.sentry.anduril.dev
+test.sitl-manager-dev.andurildev.com
 test2.dev.anduril.com
 test2.sentry.anduril.dev
 testbed.dev.anduril.com
@@ -3027,8 +3079,11 @@ unclass-peer-3.dil-char.andurildev.com
 unclass-peer-3.dil-test.andurildev.com
 unclass-peer-4.dil-char.andurildev.com
 unclass-peer-5.dil-char.andurildev.com
+unclass-peer-6.dil-char.andurildev.com
 unclass-ra.dil-char.andurildev.com
+unclass-ra.dil-test.andurildev.com
 unclass-ra.jos.gcp.andurildev.com
+unclass.dil-test.andurildev.com
 undersea-dominance-action-center.non-prod.eng.anduril.dev
 undersea-dominance-war-room.non-prod.eng.anduril.dev
 united.anduril.com
