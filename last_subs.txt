@@ -5,7 +5,9 @@
 2026x.cameo.eng.anduril.dev
 3p-ws-dev.anduril.com
 5384992-app-netsuite-com.netsuite.anduril.dev
+_dmarc.anduril.au
 _dmarc.anduril.com
+_dmarc.anduril.com.au
 _dmarc.anduril.dev
 abc-revocation.platsec-dev.anduril.dev
 abc-revocation.platsec-prod.anduril.dev
