@@ -9,7 +9,6 @@
 4waozxcf75.execute-api.us-gov-west-1.amazonaws.com.api.bild.anduril.dev
 5384992-app-netsuite-com.netsuite.anduril.dev
 _dmarc.anduril.au
-_dmarc.anduril.com
 _dmarc.anduril.com.au
 _dmarc.anduril.dev
 aa-etc-status-tool.non-prod.eng.anduril.dev
@@ -399,6 +398,7 @@ argocd.forge-dev.eng.anduril.dev
 argocd.forge-mgmt.anduril.dev
 argocd.itools-dev.anduril.dev
 argocd.kraken.anduril.com
+argocd.lacplesis.anduril.com
 argocd.landman.anduril.com
 argocd.rke2-sandbox.andurildev.com
 argocd.roadhouse.anduril.com
@@ -460,7 +460,6 @@ atlantis-okta.foundations-dev.anduril.dev
 atlantis-okta.foundations.anduril.dev
 atlantis-queue.atlantis.anduril.dev
 atlantis-queue.cloudos.andurildev.com
-atlantis-queue.cloudos.andurildev.com.cloudos.andurildev.com
 atlantis-queue.cloudos.cloudos.andurildev.com
 atlantis.anduril.dev
 atlantis.atlantis.anduril.dev
@@ -1354,6 +1353,7 @@ forge-qa-2.itools-qa.anduril.dev
 forge-qa.anduril.dev
 forge-qa.eng.anduril.dev
 forge-sandbox.sandbox.anduril.au
+forge-sandbox.sandbox.anduril.com.au
 forge-sdlc.non-prod.eng.anduril.dev
 forge-simulator.non-prod.eng.anduril.dev
 forge-stg.anduril.dev
@@ -2641,6 +2641,7 @@ roadrunner.anduril.dev
 rollouts.chidori-dev.eng.anduril.dev
 rollouts.chidori.eng.anduril.dev
 rolodex.anduril.dev
+root.anduril.com
 rosemary.anduril.com
 rps.mfx.andurildev.com
 rules-engine.anduril.dev
@@ -2723,6 +2724,7 @@ sanitize.security.anduril.dev
 sat.anduril.com
 satori.anduril.dev
 saturn.anduril.au
+saturn.anduril.com
 sauron-agent.non-prod.eng.anduril.dev
 sauron-qa.eng.anduril.dev
 sauron-stg.eng.anduril.dev
@@ -2822,7 +2824,6 @@ sie-dev.andurildev.com
 sie-dev2.andurildev.com
 sie-external-dev.andurildev.com
 sie-general.andurildev.com
-sie-sitlm.sitl-manager-dev.andurildev.com
 sie-staging.andurildev.com
 sie.anduril.au
 sie.anduril.dev
@@ -3134,6 +3135,7 @@ test-confluence.it.anduril.dev
 test-env-peer.jos.gcp.andurildev.com
 test-env.jos.gcp.andurildev.com
 test-jira.anduril.dev
+test-jlind.forge-sandbox.sandbox.anduril.au
 test-mcp-internal.non-prod.eng.anduril.dev
 test-only-test-only.non-prod.eng.anduril.dev
 test-only-test.non-prod.eng.anduril.dev
