@@ -875,6 +875,7 @@ crucible-stg.eng.anduril.dev
 crucible.eng.anduril.dev
 crucible.non-prod.eng.anduril.dev
 csms1-dotmatrix.network.anduril.com
+ctalucci-oc42-scan.mdp-sandbox.eng.anduril.dev
 ctalucci-opensearch-dashboards.mdp-sandbox.eng.anduril.dev
 ctd.chariot.andurildev.com
 ctp-pla.non-prod.eng.anduril.dev
@@ -2659,10 +2660,12 @@ roadrunner-mfg-test.andurildev.com
 roadrunner-nest-board.non-prod.eng.anduril.dev
 roadrunner-nest-board.qa.eng.anduril.dev
 roadrunner-staging.andurildev.com
+roadrunner-te-logbooks.non-prod.eng.anduril.dev
 roadrunner.anduril.dev
 rollouts.chidori-dev.eng.anduril.dev
 rollouts.chidori.eng.anduril.dev
 rolodex.anduril.dev
+root.anduril.com
 rosemary.anduril.com
 rps.mfx.andurildev.com
 rules-engine.anduril.dev
@@ -2745,6 +2748,7 @@ sanitize.security.anduril.dev
 sat.anduril.com
 satori.anduril.dev
 saturn.anduril.au
+saturn.anduril.com
 sauron-agent.non-prod.eng.anduril.dev
 sauron-qa.eng.anduril.dev
 sauron-stg.eng.anduril.dev
@@ -2949,6 +2953,7 @@ sre-foresight-qa.eng.anduril.dev
 sre-foresight.non-prod.eng.anduril.dev
 sresly.non-prod.eng.anduril.dev
 sse-development.non-prod.eng.anduril.dev
+ssh-manager.flux-vpn-bastion.andurildev.com
 ssn-harness.anduril.com
 ssn.anduril.com
 ssn.andurildev.com
@@ -3362,6 +3367,7 @@ victoria-metrics.mdp-sandbox.eng.anduril.dev
 victoria-metrics.rdf-dev.gov.anduril.dev
 video.andurildev.com
 video.cascade.anduril.com
+video.cascade.andurildev.com
 video.wickr.network.anduril.dev
 viewshed-tool-qa.eng.anduril.dev
 viewshed-tool.non-prod.eng.anduril.dev
