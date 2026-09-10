@@ -9,7 +9,6 @@
 4waozxcf75.execute-api.us-gov-west-1.amazonaws.com.api.bild.anduril.dev
 5384992-app-netsuite-com.netsuite.anduril.dev
 _dmarc.anduril.au
-_dmarc.anduril.com
 _dmarc.anduril.com.au
 _dmarc.anduril.dev
 aa-etc-status-tool.non-prod.eng.anduril.dev
@@ -396,19 +395,12 @@ areai.andurildev.com
 arena-atlas.anduril.dev
 argocd.dev.forge-mgmt.anduril.dev
 argocd.eng.anduril.dev
-argocd.falcon-peak.anduril.com
 argocd.forge-dev.eng.anduril.dev
 argocd.forge-mgmt.anduril.dev
 argocd.itools-dev.anduril.dev
-argocd.kraken.anduril.com
-argocd.lacplesis.anduril.com
-argocd.landman.anduril.com
 argocd.rke2-sandbox.andurildev.com
-argocd.roadhouse.anduril.com
 argocd.security.anduril.dev
 argocd.shared-services.itools.anduril.dev
-argocd.soabtis-2.anduril.com
-argocd.wyldkat.anduril.com
 argus-dev.andurildev.com
 ariel.itools.anduril.dev
 aristide-venue-i-1.anduril.com.au
@@ -463,7 +455,6 @@ atlantis-okta.foundations-dev.anduril.dev
 atlantis-okta.foundations.anduril.dev
 atlantis-queue.atlantis.anduril.dev
 atlantis-queue.cloudos.andurildev.com
-atlantis-queue.cloudos.andurildev.com.cloudos.andurildev.com
 atlantis-queue.cloudos.cloudos.andurildev.com
 atlantis.anduril.dev
 atlantis.atlantis.anduril.dev
@@ -612,6 +603,7 @@ breaker-bot-staging.andurildev.com
 breaker-bot.anduril.dev
 breaker-bot.andurildev.au
 bridge.cascade.andurildev.com
+brief-staging.andurildev.com
 broker.security.anduril.dev
 brokkr.anduril.com
 browser-extensions-qa.eng.anduril.dev
@@ -1298,7 +1290,6 @@ flux-vpn-bastion-staging.andurildev.com
 flux-vpn-bastion.andurildev.com
 flux.andurildev.com
 flux.dev.anduril.com
-flux.palm.anduril.com
 flyte-grafana.gov.anduril.dev
 flyte.agd-data-analytics.gov.anduril.dev
 flyte.anduril.au
@@ -1384,6 +1375,7 @@ foxglove.bunker.anduril.dev
 foxglove.chaos.anduril.dev
 foxglove.gov.anduril.dev
 freight-cost-tool.non-prod.eng.anduril.dev
+freymiller.non-prod.eng.anduril.dev
 front-door.sitl-manager.andurildev.com
 ftcl2-dotmatrix.network.anduril.com
 ftp.anduril.au
@@ -2675,7 +2667,6 @@ roadrunner.anduril.dev
 rollouts.chidori-dev.eng.anduril.dev
 rollouts.chidori.eng.anduril.dev
 rolodex.anduril.dev
-root.anduril.com
 rosemary.anduril.com
 rps.mfx.andurildev.com
 rules-engine.anduril.dev
@@ -2758,7 +2749,6 @@ sanitize.security.anduril.dev
 sat.anduril.com
 satori.anduril.dev
 saturn.anduril.au
-saturn.anduril.com
 sauron-agent.non-prod.eng.anduril.dev
 sauron-qa.eng.anduril.dev
 sauron-stg.eng.anduril.dev
@@ -2859,7 +2849,6 @@ sie-dev.andurildev.com
 sie-dev2.andurildev.com
 sie-external-dev.andurildev.com
 sie-general.andurildev.com
-sie-sitlm.sitl-manager-dev.andurildev.com
 sie-staging.andurildev.com
 sie.anduril.au
 sie.anduril.dev
@@ -3510,7 +3499,6 @@ ww2.anduril.dev
 www.ahp.security.anduril.dev
 www.anduril.au
 www.anduril.com
-www.anduril.com.au
 www.anduril.dev
 www.coverity.anduril.dev
 www.customerportal.anduril.com
