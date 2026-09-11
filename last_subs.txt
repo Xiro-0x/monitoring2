@@ -7,6 +7,11 @@
 3p-ws-dev.anduril.com
 4waozxcf75-vpce-03f1ccecdc29af3fc.execute-api.us-gov-west-1.amazonaws.com.api.bild.anduril.dev
 4waozxcf75.execute-api.us-gov-west-1.amazonaws.com.api.bild.anduril.dev
+5384992-app-netsuite-com.netsuite.anduril.dev
+_dmarc.anduril.au
+_dmarc.anduril.com
+_dmarc.anduril.com.au
+_dmarc.anduril.dev
 aa-etc-status-tool.non-prod.eng.anduril.dev
 abc-revocation.platsec-dev.anduril.dev
 abc-revocation.platsec-prod.anduril.dev
@@ -233,6 +238,7 @@ am-toolbox.non-prod.eng.anduril.dev
 amanda.sandbox.sitl-manager-dev.andurildev.com
 analytics.anduril.au
 anarchy.non-prod.eng.anduril.dev
+and1.netsuite.anduril.dev
 andromeda.dive-xl.andurildev.au
 anduril-acp-obs-dev.andurildev.com
 anduril-aus-core-nix-cache.cachix.andurildev.au
@@ -347,7 +353,6 @@ app-infra.andurildev.com
 app-infra.dev.anduril.com
 app.anduril.com.au
 app.andurildev.au
-app.andurildev.com
 app.aw-remote.anduril.dev
 app.bazel.anduril.dev
 app.cachix.anduril.au
@@ -392,12 +397,19 @@ areai.andurildev.com
 arena-atlas.anduril.dev
 argocd.dev.forge-mgmt.anduril.dev
 argocd.eng.anduril.dev
+argocd.falcon-peak.anduril.com
 argocd.forge-dev.eng.anduril.dev
 argocd.forge-mgmt.anduril.dev
 argocd.itools-dev.anduril.dev
+argocd.kraken.anduril.com
+argocd.lacplesis.anduril.com
+argocd.landman.anduril.com
 argocd.rke2-sandbox.andurildev.com
+argocd.roadhouse.anduril.com
 argocd.security.anduril.dev
 argocd.shared-services.itools.anduril.dev
+argocd.soabtis-2.anduril.com
+argocd.wyldkat.anduril.com
 argus-dev.andurildev.com
 ariel.itools.anduril.dev
 aristide-venue-i-1.anduril.com.au
@@ -452,7 +464,6 @@ atlantis-okta.foundations-dev.anduril.dev
 atlantis-okta.foundations.anduril.dev
 atlantis-queue.atlantis.anduril.dev
 atlantis-queue.cloudos.andurildev.com
-atlantis-queue.cloudos.andurildev.com.cloudos.andurildev.com
 atlantis-queue.cloudos.cloudos.andurildev.com
 atlantis.anduril.dev
 atlantis.atlantis.anduril.dev
@@ -574,7 +585,6 @@ bl2.plm.anduril.dev
 blast-10.non-prod.eng.anduril.dev
 blast-radius.non-prod.eng.anduril.dev
 blog.anduril.com
-blog.andurildev.com
 blue.andurildev.com
 blueprint-demand-api.non-prod.eng.anduril.dev
 blueprint-demand.non-prod.eng.anduril.dev
@@ -734,7 +744,6 @@ chariot.chariot.andurildev.com
 chart-gen.anduril.dev
 charts.andurildev.com
 chat.anduril.dev
-chat.andurildev.com
 chestnut.anduril.com
 chidori-dev.eng.anduril.dev
 chidori-external-dev.eng.anduril.dev
@@ -773,6 +782,7 @@ cloudos-bots.andurildev.com
 cm-change-tracker-menace-i.non-prod.eng.anduril.dev
 cm-change-tracker-qa.eng.anduril.dev
 cm-change-tracker.non-prod.eng.anduril.dev
+cm-feedback-progress-tracker.non-prod.eng.anduril.dev
 cm-implementation-tracker.non-prod.eng.anduril.dev
 cm-implementation-v2-qa.eng.anduril.dev
 cm-implementation-v2.non-prod.eng.anduril.dev
@@ -780,6 +790,7 @@ cm-metric-dashboard-qa.eng.anduril.dev
 cm-metric-dashboard.non-prod.eng.anduril.dev
 cmmc-supplier-dashboard.non-prod.eng.anduril.dev
 cms1-conductor01.network.anduril.com
+cms1.netsuite.anduril.dev
 cobra.erp.anduril.dev
 cockpit.mfx.andurildev.com
 code-assurance.security.anduril.dev
@@ -815,6 +826,7 @@ confluence-stage2.corp.anduril.dev
 confluence-vygr.anduril.dev
 confluence.anduril.dev
 confluence.corp.anduril.dev
+conmon.prodsec-dev.anduril.dev
 connect.brokkr.anduril.com
 connect.cedar.sie.andurildev.com
 connect.kal-sandbox.anduril.com
@@ -834,6 +846,7 @@ contacts.it.anduril.dev
 contenta.andurildev.au
 corp-pca-root.crl.security.anduril.dev
 corp.anduril.dev
+corp.netsuite.anduril.dev
 corptech-annual-planning.non-prod.eng.anduril.dev
 corptech-annual-planning.qa.eng.anduril.dev
 corptech-platform-planner.non-prod.eng.anduril.dev
@@ -1000,6 +1013,7 @@ dev.anduril-resiliency-ext.andurildev.com
 dev.anduril.com
 dev.anduril.dev
 dev.bouncer.security.anduril.dev
+dev.cachix.anduril.dev
 dev.crp-sec.anduril.dev
 dev.dante.anduril.dev
 dev.docs.anduril.com
@@ -1065,7 +1079,6 @@ dive.anduril.dev
 divexl.anduril.com
 dns1.anduril.com.au
 dns2.anduril.dev
-dns2.andurildev.com
 dnstest.sandbox.sitl-manager-dev.andurildev.com
 doc-release-runner-qa.eng.anduril.dev
 doc-release-runner-stg.eng.anduril.dev
@@ -1080,6 +1093,7 @@ docs.ads.anduril.dev
 docs.anduril.com
 docs.anduril.dev
 docs.andurildev.au
+docs.cachix.anduril.dev
 docs.catalyst.anduril.dev
 docs.ew.anduril.dev
 docs.helix.anduril.dev
@@ -1167,6 +1181,7 @@ engos-thermalstruct.non-prod.eng.anduril.dev
 env.brokkr.anduril.com
 env.cedar.sie.andurildev.com
 env.kal-sandbox.anduril.com
+env.pine.sie.andurildev.com
 env.prime.sie.andurildev.com
 env.rcv-sie.andurildev.com
 env.rcv.sie.anduril.dev
@@ -1198,11 +1213,13 @@ erp.tc-staging.eng.anduril.dev
 erp.tc.eng.anduril.dev
 ersa.andurildev.com
 ess-dev.andurildev.com
+eu-east-1.app.cachix.anduril.dev
 eud.akm.anduril.com
 eudops-dev.akm.anduril.com
 eudops-prod.akm.anduril.com
 ew-hub.non-prod.eng.anduril.dev
 ew-hub.qa.eng.anduril.dev
+ew-hub.stage.eng.anduril.dev
 ew-infra.ew.anduril.dev
 ew-production.non-prod.eng.anduril.dev
 ew-production.qa.eng.anduril.dev
@@ -1283,6 +1300,7 @@ flux-vpn-bastion-staging.andurildev.com
 flux-vpn-bastion.andurildev.com
 flux.andurildev.com
 flux.dev.anduril.com
+flux.palm.anduril.com
 flyte-grafana.gov.anduril.dev
 flyte.agd-data-analytics.gov.anduril.dev
 flyte.anduril.au
@@ -1333,6 +1351,7 @@ foresight-beta.non-prod.eng.anduril.dev
 forge-c2.andurildev.com
 forge-connector-reference.non-prod.eng.anduril.dev
 forge-connector-reference.qa.eng.anduril.dev
+forge-connector-reference.stage.eng.anduril.dev
 forge-dev.anduril.dev
 forge-dev.eng.anduril.dev
 forge-dev.itools-dev.anduril.dev
@@ -1617,7 +1636,6 @@ ie-tools.eng.anduril.dev
 ie-tools.non-prod.eng.anduril.dev
 igel.anduril.dev
 ignition.mdp-sandbox.eng.anduril.dev
-images.andurildev.com
 imaging-altium.corp.anduril.dev
 imaging-data-access-qa.eng.anduril.dev
 imaging-data-access.non-prod.eng.anduril.dev
@@ -1883,6 +1901,7 @@ lepus-eqm-ait.anduril.com
 lepus-eqm.anduril.com
 lepus.anduril.com
 lettuce.anduril.com
+lfdweyi3.netsuite.anduril.dev
 librenms.network.anduril.com
 librenms.network.anduril.dev
 license.plm.anduril.dev
@@ -1905,7 +1924,6 @@ live-ingest.rdf-dev.gov.anduril.dev
 live-ingest.rdf-prod.gov.anduril.dev
 live-ingest.rdf.anduril.au
 live-ingest.rdf.jip.anduril.com
-live.andurildev.com
 llm-dev.eng.anduril.dev
 llm.anduril.dev
 llm.eng.anduril.dev
@@ -1960,6 +1978,7 @@ machine-simulator.mdp-sandbox.eng.anduril.dev
 madis-ces.anduril.com
 magnum.andurildev.com
 mail.anduril.com.au
+mail.netsuite.anduril.dev
 mail1.anduril.com
 mail1.andurildev.au
 mail2.anduril.com
@@ -1993,6 +2012,7 @@ marketing-dashboard-slt.non-prod.eng.anduril.dev
 marlin.maritime.anduril.com
 mass-effects.anduril.com
 massive-service-demo.non-prod.eng.anduril.dev
+master-schedule.non-prod.eng.anduril.dev
 mayhem-dast.anduril.dev
 mazarbul-qa.eng.anduril.dev
 mazarbul.non-prod.eng.anduril.dev
@@ -2041,6 +2061,8 @@ mdp-web.mdp-prod.eng.anduril.dev
 mdp-web.mdp-qa.eng.anduril.dev
 mdp.eng.anduril.dev
 me-work-management.hm-poc.anduril.dev
+medallia-netsuite-com-drupal.netsuite.anduril.dev
+medallia-netsuite-com.netsuite.anduril.dev
 meeting-notes-kb.non-prod.eng.anduril.dev
 meg-design-space.mdp-sandbox.eng.anduril.dev
 melby.cms-dev.anduril.dev
@@ -2381,6 +2403,7 @@ pine-sitl-cluster.sitlm.anduril.dev
 pine.andurildev.com
 pine.sie.andurildev.com
 pine.sitlm.anduril.dev
+ping-mwong.non-prod.eng.anduril.dev
 pinjol-ilegal-mudah-cair-2024.anduril.com.au
 pioneers.anduril.com
 pipelines-staging.andurildev.com
@@ -2450,6 +2473,7 @@ prime.sitlm.anduril.dev
 prism.imaging.anduril.dev
 private-eye.non-prod.eng.anduril.dev
 private.andurildev.au
+procurement.fai.anduril.dev
 prod-agni.network.anduril.dev
 prod-jip-gov.anduril.dev
 prod-ops.non-prod.eng.anduril.dev
@@ -2471,7 +2495,6 @@ prod-test-4.non-prod.eng.anduril.dev
 prod-test-5-qa.eng.anduril.dev
 prod-test-5.non-prod.eng.anduril.dev
 prod.anduril.com.au
-prod.andurildev.com
 prod.bouncer.security.anduril.dev
 prod.crp-sec.anduril.dev
 prod.gymnasium.anduril.dev
@@ -2479,6 +2502,7 @@ prod.mdm.fleetdm.security.anduril.dev
 prod.teleport.anduril.dev
 prodsec-dsb.andurildev.com
 prodsec.anduril.dev
+profile-api.non-prod.eng.anduril.dev
 project-code-roster-app.non-prod.eng.anduril.dev
 project-code-roster.non-prod.eng.anduril.dev
 project.erp.anduril.dev
@@ -2625,6 +2649,7 @@ rfml.anduril.com
 risk-reticle.non-prod.eng.anduril.dev
 rit.non-prod.eng.anduril.dev
 rit.qa.eng.anduril.dev
+rit.stage.eng.anduril.dev
 rivendell.anduril.com
 rke2-dist-auth.andurildev.com
 rke2-hardening.andurildev.com
@@ -2656,7 +2681,6 @@ roadrunner.anduril.dev
 rollouts.chidori-dev.eng.anduril.dev
 rollouts.chidori.eng.anduril.dev
 rolodex.anduril.dev
-root.anduril.com
 rosemary.anduril.com
 rps.mfx.andurildev.com
 rr-efm-readiness-tracker.non-prod.eng.anduril.dev
@@ -2665,11 +2689,15 @@ rupiah-plus.anduril.com.au
 rz.security.anduril.dev
 s007d.sandbox.sitl-manager-dev.andurildev.com
 s0198.sandbox.sitl-manager-dev.andurildev.com
+s0494.sandbox.sitl-manager-dev.andurildev.com
 s100f.sandbox.sitl-manager-dev.andurildev.com
 s1a10.sandbox.sitl-manager-dev.andurildev.com
+s21b4.sandbox.sitl-manager-dev.andurildev.com
 s2fc3.sandbox.sitl-manager-dev.andurildev.com
 s3.anduril.com.au
 s32c7.sandbox.sitl-manager-dev.andurildev.com
+s4d6b.sandbox.sitl-manager-dev.andurildev.com
+s53e7.sandbox.sitl-manager-dev.andurildev.com
 s67be.sandbox.sitl-manager-dev.andurildev.com
 s8910.sandbox.sitl-manager-dev.andurildev.com
 s8d6f.sandbox.sitl-manager-dev.andurildev.com
@@ -2736,7 +2764,6 @@ sanitize.security.anduril.dev
 sat.anduril.com
 satori.anduril.dev
 saturn.anduril.au
-saturn.anduril.com
 sauron-agent.non-prod.eng.anduril.dev
 sauron-qa.eng.anduril.dev
 sauron-stg.eng.anduril.dev
@@ -2816,6 +2843,7 @@ serpent.anduril.com
 sevencs.dive.anduril.dev
 sf3b7.sandbox.sitl-manager-dev.andurildev.com
 sf467.sandbox.sitl-manager-dev.andurildev.com
+sf9d7.sandbox.sitl-manager-dev.andurildev.com
 sfw-dev.security.anduril.dev
 shafter.usarmy.anduril.com
 sharon-test.non-prod.eng.anduril.dev
@@ -2836,7 +2864,7 @@ sie-dev.andurildev.com
 sie-dev2.andurildev.com
 sie-external-dev.andurildev.com
 sie-general.andurildev.com
-sie-sitlm.sitl-manager-dev.andurildev.com
+sie-manager.ssn-sie.anduril.com
 sie-staging.andurildev.com
 sie.anduril.au
 sie.anduril.dev
@@ -2959,7 +2987,6 @@ staging-jira.anduril.dev
 staging-login.developer.anduril.com
 staging-schema-registry.developer.anduril.com
 staging.anduril.com
-staging.andurildev.com
 staging.developer.anduril.com
 staging.docs.anduril.com
 state-of-the-floor-3100.non-prod.eng.anduril.dev
@@ -3001,6 +3028,7 @@ superset.itools.anduril.dev
 supplier-portal.anduril.com
 supplier-profiles-qa.eng.anduril.dev
 supplier-terms.anduril.com
+supply-chain-ai-workshop.non-prod.eng.anduril.dev
 supply-chain-analytics-arsenal-qa.eng.anduril.dev
 supply-chain-analytics-arsenal.non-prod.eng.anduril.dev
 supply-chain-analytics-base.non-prod.eng.anduril.dev
@@ -3166,6 +3194,7 @@ test.non-prod.eng.anduril.dev
 test.plm.anduril.dev
 test.security.anduril.dev
 test.sentry.anduril.dev
+test.sitl-manager-dev.andurildev.com
 test2.dev.anduril.com
 test2.sentry.anduril.dev
 testbed.dev.anduril.com
