@@ -467,6 +467,7 @@ atlantis-okta.foundations-dev.anduril.dev
 atlantis-okta.foundations.anduril.dev
 atlantis-queue.atlantis.anduril.dev
 atlantis-queue.cloudos.andurildev.com
+atlantis-queue.cloudos.andurildev.com.cloudos.andurildev.com
 atlantis-queue.cloudos.cloudos.andurildev.com
 atlantis.anduril.dev
 atlantis.atlantis.anduril.dev
@@ -1209,7 +1210,6 @@ env.sie.mimosa.anduril.com
 env.sie.rcv-external.andurildev.com
 env.sie.sitl-manager-dev.andurildev.com
 env.sie.sitl.anduril.dev
-env.sie.tdm.anduril.com
 env.tembusu-external.anduril.com
 env.training.anduril.com
 env.yellowstone-performers-tmp.andurildev.com
@@ -2901,6 +2901,7 @@ sie-dev2.andurildev.com
 sie-external-dev.andurildev.com
 sie-general.andurildev.com
 sie-manager.ssn-sie.anduril.com
+sie-sitlm.sitl-manager-dev.andurildev.com
 sie-staging.andurildev.com
 sie.anduril.au
 sie.anduril.dev
