@@ -9,6 +9,7 @@
 4waozxcf75.execute-api.us-gov-west-1.amazonaws.com.api.bild.anduril.dev
 5384992-app-netsuite-com.netsuite.anduril.dev
 _dmarc.anduril.au
+_dmarc.anduril.com
 _dmarc.anduril.com.au
 _dmarc.anduril.dev
 aa-etc-status-tool.non-prod.eng.anduril.dev
@@ -246,6 +247,7 @@ anduril-bolt-sitl-cluster.sitlm.anduril.dev
 anduril-class-it-support.corp.anduril.dev
 anduril-cloudos-aws-cp.andurildev.com
 anduril-cloudos-com-dev-2.andurildev.com
+anduril-cloudos-com-dev-3.andurildev.com
 anduril-cloudos-com-dev.andurildev.com
 anduril-cloudos-dev-2.andurildev.com
 anduril-cloudos-dev-3.andurildev.com
@@ -375,6 +377,7 @@ app.rdf.jip.anduril.com
 app.test-cci-auto.anduril.dev
 app.test-cci.anduril.dev
 app.wickr.network.anduril.dev
+approval-hub.non-prod.eng.anduril.dev
 apps.anduril.com
 apps.eng.anduril.au
 apse2.dev.dt.security.anduril.dev
@@ -2041,6 +2044,7 @@ master-schedule.non-prod.eng.anduril.dev
 mayhem-dast.anduril.dev
 mazarbul-qa.eng.anduril.dev
 mazarbul.non-prod.eng.anduril.dev
+mc-approval-hub.non-prod.eng.anduril.dev
 mc-ops.anduril.dev
 mcape-prom.andurildev.com
 mcape-prom.dev.anduril.com
@@ -2319,6 +2323,8 @@ odoo.anduril.dev
 odoo.itools-dev.anduril.dev
 oidc.ghe-proxy.anduril.dev
 okta-test.non-prod.eng.anduril.dev
+okta-x-dev.eng.anduril.dev
+okta-x.eng.anduril.dev
 okta.anduril.com
 oldsocom.anduril.com
 omega-red-demo.anduril.com
@@ -2547,6 +2553,7 @@ prodsec.anduril.dev
 product-dev-cogs-forecastor.non-prod.eng.anduril.dev
 profile-api.non-prod.eng.anduril.dev
 prog-protect-dashboard.non-prod.eng.anduril.dev
+prog-protect-dashboard.qa.eng.anduril.dev
 program-hub.non-prod.eng.anduril.dev
 project-code-roster-app.non-prod.eng.anduril.dev
 project-code-roster.non-prod.eng.anduril.dev
@@ -2582,6 +2589,7 @@ qri-ballasting-qa.eng.anduril.dev
 qri-ballasting.non-prod.eng.anduril.dev
 qri-bom-diff-tool.non-prod.eng.anduril.dev
 qri-bom-diff-tool.qa.eng.anduril.dev
+qri-hydrostatic-pressure-tracker.non-prod.eng.anduril.dev
 qri-labor-dashboard-qa.eng.anduril.dev
 qri-labor-dashboard.non-prod.eng.anduril.dev
 qri-labor-dashboard.qa.eng.anduril.dev
