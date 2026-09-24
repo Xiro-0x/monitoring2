@@ -359,7 +359,6 @@ app.cci-test.anduril.dev
 app.cci.anduril.au
 app.cci.anduril.dev
 app.cci3.anduril.dev
-app.circleci.anduril.dev
 app.etl-dev.gov.anduril.dev
 app.ml-prod.gov.anduril.dev
 app.nominal.gov.itar.anduril.dev
@@ -601,7 +600,6 @@ bop-cm-walkthrough-qa.eng.anduril.dev
 bop-cm-walkthrough.non-prod.eng.anduril.dev
 bop-roadmap-qa.eng.anduril.dev
 bop-roadmap.non-prod.eng.anduril.dev
-bot.giza.itools-dev.anduril.dev
 bouncer.security.anduril.dev
 breaker-bot-staging.andurildev.com
 breaker-bot.anduril.dev
@@ -1210,7 +1208,6 @@ env.sie.mimosa.anduril.com
 env.sie.rcv-external.andurildev.com
 env.sie.sitl-manager-dev.andurildev.com
 env.sie.sitl.anduril.dev
-env.sie.tdm.anduril.com
 env.tembusu-external.anduril.com
 env.training.anduril.com
 env.yellowstone-performers-tmp.andurildev.com
@@ -1224,6 +1221,7 @@ erp.tc.eng.anduril.dev
 ersa.andurildev.com
 ess-dev.andurildev.com
 eud.akm.anduril.com
+eud.akm.sauron.anduril.com
 eudops-dev.akm.anduril.com
 eudops-prod.akm.anduril.com
 event-tracking.non-prod.eng.anduril.dev
@@ -1490,7 +1488,6 @@ gitlab.training.anduril.com
 gitlab.voyager-dev.anduril.dev
 gitlab.voyager.anduril.dev
 gitlab.yellowstone.anduril.dev
-giza-bot.giza.itools-dev.anduril.dev
 giza-bot.itools-dev.anduril.dev
 giza-bot.itools.anduril.dev
 giza.itools-dev.anduril.dev
@@ -1695,6 +1692,7 @@ ingest.observability-staging.andurildev.com
 ingest.observability.anduril.dev
 ingest.smbcai-obs.andurildev.com
 ingress-sandbox.andurildev.com
+ingress-test.sandbox.anduril.com.au
 instrumental.anduril.dev
 int-dev.mimosa.anduril.com
 int-os-staging.andurildev.com
@@ -2131,6 +2129,7 @@ mfepracticepartybus.non-prod.eng.anduril.dev
 mfg-api.akm.anduril.com
 mfg-ghost.anduril.com
 mfg.akm.anduril.com
+mfg.akm.sauron.anduril.com
 mfg.teleport.anduril.dev
 mfgops-dev.akm.anduril.com
 mfgops-prod.akm.anduril.com
@@ -2729,6 +2728,7 @@ roadrunner.anduril.dev
 rollouts.chidori-dev.eng.anduril.dev
 rollouts.chidori.eng.anduril.dev
 rolodex.anduril.dev
+root.anduril.com
 rosemary.anduril.com
 routing-diff.non-prod.eng.anduril.dev
 routing-diff.qa.eng.anduril.dev
@@ -2815,6 +2815,7 @@ sat-agent-runner-staging.andurildev.com
 sat.anduril.com
 satori.anduril.dev
 saturn.anduril.au
+saturn.anduril.com
 sauron-agent.non-prod.eng.anduril.dev
 sauron-qa.eng.anduril.dev
 sauron-stg.eng.anduril.dev
