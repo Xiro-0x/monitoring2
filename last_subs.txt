@@ -8,7 +8,6 @@
 3p-ws-dev.anduril.com
 4waozxcf75-vpce-03f1ccecdc29af3fc.execute-api.us-gov-west-1.amazonaws.com.api.bild.anduril.dev
 4waozxcf75.execute-api.us-gov-west-1.amazonaws.com.api.bild.anduril.dev
-_dmarc.anduril.com
 aa-etc-status-tool.non-prod.eng.anduril.dev
 abc-revocation.platsec-dev.anduril.dev
 abc-revocation.platsec-prod.anduril.dev
@@ -131,6 +130,7 @@ adam-stg.eng.anduril.dev
 adam.eng.anduril.dev
 adam.non-prod.eng.anduril.dev
 adma-query.non-prod.eng.anduril.dev
+admin-sitl-manager.andurildev.com
 admin.agd-data-analytics.gov.anduril.dev
 admin.etl-dev.gov.anduril.dev
 admin.ml-prod.gov.anduril.dev
@@ -404,20 +404,13 @@ areai.andurildev.com
 arena-atlas.anduril.dev
 argocd.dev.forge-mgmt.anduril.dev
 argocd.eng.anduril.dev
-argocd.falcon-peak.anduril.com
 argocd.forge-dev.eng.anduril.dev
 argocd.forge-mgmt.anduril.dev
 argocd.itools-dev.anduril.dev
-argocd.kraken.anduril.com
-argocd.lacplesis.anduril.com
-argocd.landman.anduril.com
 argocd.prod.gymnasium.anduril.dev
 argocd.rke2-sandbox.andurildev.com
-argocd.roadhouse.anduril.com
 argocd.security.anduril.dev
 argocd.shared-services.itools.anduril.dev
-argocd.soabtis-2.anduril.com
-argocd.wyldkat.anduril.com
 argus-dev.andurildev.com
 argus.non-prod.eng.anduril.dev
 ariel.itools.anduril.dev
@@ -820,6 +813,7 @@ comments-for-prototypes.non-prod.eng.anduril.dev
 commodity-derisking-qa.eng.anduril.dev
 commodity-derisking-stg.eng.anduril.dev
 commodity-derisking.non-prod.eng.anduril.dev
+comms-team-clock.non-prod.eng.anduril.dev
 commvault.it.anduril.dev
 compass.anduril.dev
 composable.andurildev.com
@@ -886,6 +880,7 @@ coupon-fab.hm-poc.anduril.dev
 coupon-fab.non-prod.eng.anduril.dev
 cov.anduril.dev
 coverity.anduril.dev
+cowboy-dbt-dashboard.non-prod.eng.anduril.dev
 crl.dev.menace-pki.anduril.com
 crl.menace-pki.anduril.com
 crm.rdf-dev.gov.anduril.dev
@@ -1332,7 +1327,6 @@ flux-vpn-bastion-staging.andurildev.com
 flux-vpn-bastion.andurildev.com
 flux.andurildev.com
 flux.dev.anduril.com
-flux.palm.anduril.com
 flyte-grafana.gov.anduril.dev
 flyte.agd-data-analytics.gov.anduril.dev
 flyte.anduril.au
@@ -1776,6 +1770,7 @@ jays-and-cees.eng.anduril.dev
 jays-and-cees.non-prod.eng.anduril.dev
 jboyer-mcp-connectors-qa.eng.anduril.dev
 jboyer-mcp-connectors.non-prod.eng.anduril.dev
+jcg-app-s3.non-prod.eng.anduril.dev
 jcg-new-okta.non-prod.eng.anduril.dev
 jcg-pb-deleteme.non-prod.eng.anduril.dev
 jcg-pb-deleteme.qa.eng.anduril.dev
@@ -1799,6 +1794,7 @@ jesse-app-template-4.non-prod.eng.anduril.dev
 jesse-app-template-5.non-prod.eng.anduril.dev
 jesse-app-template-6.non-prod.eng.anduril.dev
 jesse-app-template-7.non-prod.eng.anduril.dev
+jesse-app-template-8.non-prod.eng.anduril.dev
 jesse-app-template.non-prod.eng.anduril.dev
 jesse-delete-2.non-prod.eng.anduril.dev
 jesse-forge-connector.non-prod.eng.anduril.dev
@@ -2103,6 +2099,7 @@ md-program-health.qa.eng.anduril.dev
 md-staff-budget-qa.eng.anduril.dev
 md-staff-budget.non-prod.eng.anduril.dev
 md-staff-budget.qa.eng.anduril.dev
+md-techops.non-prod.eng.anduril.dev
 md-thunder-budget.non-prod.eng.anduril.dev
 md-thunder-budget.qa.eng.anduril.dev
 md-toolbox.non-prod.eng.anduril.dev
@@ -2121,6 +2118,7 @@ me-work-management.hm-poc.anduril.dev
 meeting-notes-kb.non-prod.eng.anduril.dev
 meg-design-space.mdp-sandbox.eng.anduril.dev
 meg-web.mdp-sandbox.eng.anduril.dev
+meg.eng.anduril.dev
 melby.cms-dev.anduril.dev
 melby.cms.anduril.dev
 melby.eng.anduril.dev
@@ -2374,7 +2372,6 @@ openproject.anduril.dev
 opensearch.mdp-sandbox.eng.anduril.dev
 openvpn.andurildev.com
 openvpn.dev.anduril.com
-operations-personnel-movement-tracker-t-e.non-prod.eng.anduril.dev
 operations-personnel-movement-tracker-t-e.qa.eng.anduril.dev
 oppenheimer-1.andurildev.com
 oppenheimer-2.andurildev.com
@@ -3364,6 +3361,7 @@ travel.anduril.com
 trident-spectre.andurildev.com
 trino.rdf-dev.gov.anduril.dev
 trino.rdf-prod.gov.anduril.dev
+trino.rdf.anduril.au
 trionda.anduril.com
 troubleshooting-app.non-prod.eng.anduril.dev
 trs-ci.andurildev.com
@@ -3408,6 +3406,7 @@ undersea-dominance-action-center-qa.eng.anduril.dev
 undersea-dominance-action-center.non-prod.eng.anduril.dev
 undersea-dominance-war-room.non-prod.eng.anduril.dev
 united.anduril.com
+uns.mdp-sandbox.eng.anduril.dev
 uptime.andurildev.com
 urs-dev.andurildev.com
 urs-quality-qa.eng.anduril.dev
