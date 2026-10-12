@@ -411,13 +411,20 @@ areai.andurildev.com
 arena-atlas.anduril.dev
 argocd.dev.forge-mgmt.anduril.dev
 argocd.eng.anduril.dev
+argocd.falcon-peak.anduril.com
 argocd.forge-dev.eng.anduril.dev
 argocd.forge-mgmt.anduril.dev
 argocd.itools-dev.anduril.dev
+argocd.kraken.anduril.com
+argocd.lacplesis.anduril.com
+argocd.landman.anduril.com
 argocd.prod.gymnasium.anduril.dev
 argocd.rke2-sandbox.andurildev.com
+argocd.roadhouse.anduril.com
 argocd.security.anduril.dev
 argocd.shared-services.itools.anduril.dev
+argocd.soabtis-2.anduril.com
+argocd.wyldkat.anduril.com
 argus-dev.andurildev.com
 argus.non-prod.eng.anduril.dev
 ariel.itools.anduril.dev
@@ -476,7 +483,6 @@ atlantis-okta.foundations-dev.anduril.dev
 atlantis-okta.foundations.anduril.dev
 atlantis-queue.atlantis.anduril.dev
 atlantis-queue.cloudos.andurildev.com
-atlantis-queue.cloudos.andurildev.com.cloudos.andurildev.com
 atlantis-queue.cloudos.cloudos.andurildev.com
 atlantis.anduril.dev
 atlantis.atlantis.anduril.dev
@@ -1369,6 +1375,7 @@ flux-vpn-bastion-staging.andurildev.com
 flux-vpn-bastion.andurildev.com
 flux.andurildev.com
 flux.dev.anduril.com
+flux.palm.anduril.com
 flyte-grafana.gov.anduril.dev
 flyte.agd-data-analytics.gov.anduril.dev
 flyte.anduril.au
@@ -2510,6 +2517,10 @@ otto-verify-strict-49689.non-prod.eng.anduril.dev
 otto.eng.anduril.dev
 otto.non-prod.eng.anduril.dev
 otto2-e2e-live1.non-prod.eng.anduril.dev
+otto2-e2e-live2.non-prod.eng.anduril.dev
+otto2-e2e-live3.non-prod.eng.anduril.dev
+otto2-e2e-live4.non-prod.eng.anduril.dev
+otto2-e2e-live4.qa.eng.anduril.dev
 outline.mfx.andurildev.com
 outline.non-prod.eng.anduril.dev
 ov1.anduril.dev
@@ -2897,7 +2908,6 @@ roadrunner.anduril.dev
 rollouts.chidori-dev.eng.anduril.dev
 rollouts.chidori.eng.anduril.dev
 rolodex.anduril.dev
-root.anduril.com
 rosemary.anduril.com
 routing-diff.non-prod.eng.anduril.dev
 routing-diff.qa.eng.anduril.dev
@@ -2988,7 +2998,6 @@ sat.anduril.com
 satellite.redbud.anduril.dev
 satori.anduril.dev
 saturn.anduril.au
-saturn.anduril.com
 sauron-agent.non-prod.eng.anduril.dev
 sauron-qa.eng.anduril.dev
 sauron-stg.eng.anduril.dev
@@ -3091,7 +3100,6 @@ sie-dev2.andurildev.com
 sie-external-dev.andurildev.com
 sie-general.andurildev.com
 sie-manager.ssn-sie.anduril.com
-sie-sitlm.sitl-manager-dev.andurildev.com
 sie-staging.andurildev.com
 sie.anduril.au
 sie.anduril.dev
