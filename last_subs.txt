@@ -738,6 +738,7 @@ cache.build.anduril.dev
 cache.build.andurildev.com
 cachix.anduril.au
 cachix.anduril.dev
+cachix.andurildev.au
 cad-decimation.hm-poc.anduril.dev
 cadence.eng.anduril.dev
 cadence.non-prod.eng.anduril.dev
@@ -2196,6 +2197,7 @@ marco-polo.non-prod.eng.anduril.dev
 marco-polo.qa.eng.anduril.dev
 marcus-dev.anduril.dev
 marcus.anduril.dev
+mario.andurildev.com
 maritime-app-team-internal-tools.non-prod.eng.anduril.dev
 maritime-budget-forecast-staffing.non-prod.eng.anduril.dev
 maritime-dev.andurildev.com
