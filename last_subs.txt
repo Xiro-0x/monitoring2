@@ -9,7 +9,9 @@
 4waozxcf75-vpce-03f1ccecdc29af3fc.execute-api.us-gov-west-1.amazonaws.com.api.bild.anduril.dev
 4waozxcf75.execute-api.us-gov-west-1.amazonaws.com.api.bild.anduril.dev
 5384992-app-netsuite-com.netsuite.anduril.dev
+_dmarc.anduril.au
 _dmarc.anduril.com
+_dmarc.anduril.com.au
 _dmarc.anduril.dev
 a700-dashboard.eng.anduril.dev
 a700-dashboard.non-prod.eng.anduril.dev
@@ -1802,6 +1804,7 @@ ie-tools.eng.anduril.dev
 ie-tools.non-prod.eng.anduril.dev
 igel.anduril.dev
 ignition.mdp-sandbox.eng.anduril.dev
+ima2.non-prod.eng.anduril.dev
 image.anduril.com.au
 imaging-altium.corp.anduril.dev
 imaging-data-access-qa.eng.anduril.dev
@@ -1820,6 +1823,7 @@ ime-order-tracker.non-prod.eng.anduril.dev
 imgin-prod.instrumental.anduril.dev
 imgin.instrumental.anduril.dev
 imro-dashboard.non-prod.eng.anduril.dev
+inbound-tracking.non-prod.eng.anduril.dev
 incident-watchtower.anduril.dev
 incidentful.non-prod.eng.anduril.dev
 indirect-jira-ticket-dashboard.non-prod.eng.anduril.dev
@@ -2081,6 +2085,7 @@ lattice-mbta.stage.eng.anduril.dev
 lattice-release.andurildev.com
 lattice-signing-ca.platsec-dev.anduril.dev
 lattice-signing-ca.platsec-prod.anduril.dev
+lattice-testrail-dev.andurildev.com
 lattice.nova.anduril.au
 lattice.ssn-sie.anduril.com
 launch-me.non-prod.eng.anduril.dev
@@ -2228,6 +2233,7 @@ maritime-app-team-internal-tools.non-prod.eng.anduril.dev
 maritime-budget-forecast-staffing.non-prod.eng.anduril.dev
 maritime-dev.andurildev.com
 maritime-gs.anduril.com
+maritime-sbs-dev.andurildev.com
 maritime-serpentine.andurildev.com
 maritime-test.andurildev.com
 maritime-urs-pipeline.andurildev.com
@@ -2689,6 +2695,7 @@ persistence-test.non-prod.eng.anduril.dev
 personnel-operations-tracker.non-prod.eng.anduril.dev
 pest.anduril.dev
 pestv2.anduril.dev
+pfep-tracker-app.non-prod.eng.anduril.dev
 pfep-tracker.non-prod.eng.anduril.dev
 pfmea-assistant.non-prod.eng.anduril.dev
 phabricator.anduril.dev
