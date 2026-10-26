@@ -1972,7 +1972,6 @@ jira-people.anduril.dev
 jira-stage-hdplus.corp.anduril.dev
 jira-stage-infosec.anduril.dev
 jira-stage.anduril.dev
-jira-test.anduril.au
 jira-vygr.anduril.dev
 jira.anduril.au
 jira.anduril.dev
@@ -2382,6 +2381,7 @@ mimir.security.anduril.dev
 mimosa.anduril.com
 minio-sandbox.andurildev.com
 mirror.sscs.security.anduril.dev
+mirrorserv.anduril.au
 mission-sim-ingest.observability-dev.andurildev.com
 mission-sim-ingest.observability.anduril.dev
 mission-systems-kpi-qa.eng.anduril.dev
