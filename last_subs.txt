@@ -2865,6 +2865,7 @@ qri-ballasting.non-prod.eng.anduril.dev
 qri-bom-diff-tool.non-prod.eng.anduril.dev
 qri-bom-diff-tool.qa.eng.anduril.dev
 qri-dunk-tank-tracker.non-prod.eng.anduril.dev
+qri-dunkin.non-prod.eng.anduril.dev
 qri-hydrostatic-pressure-tracker.non-prod.eng.anduril.dev
 qri-labor-dashboard-qa.eng.anduril.dev
 qri-labor-dashboard.non-prod.eng.anduril.dev
@@ -3032,12 +3033,14 @@ roadrunner.anduril.dev
 rollouts.chidori-dev.eng.anduril.dev
 rollouts.chidori.eng.anduril.dev
 rolodex.anduril.dev
+root.anduril.com
 rosemary.anduril.com
 routing-diff.non-prod.eng.anduril.dev
 routing-diff.qa.eng.anduril.dev
 rps.mfx.andurildev.com
 rr-efm-readiness-tracker.eng.anduril.dev
 rr-efm-readiness-tracker.non-prod.eng.anduril.dev
+rr-nest-mfg.non-prod.eng.anduril.dev
 rules-engine.anduril.dev
 rupiah-plus.anduril.com.au
 rz.security.anduril.dev
@@ -3125,6 +3128,7 @@ satellite-c2.anduril.com
 satellite.redbud.anduril.dev
 satori.anduril.dev
 saturn.anduril.au
+saturn.anduril.com
 sauron-agent.non-prod.eng.anduril.dev
 sauron-qa.eng.anduril.dev
 sauron-stg.eng.anduril.dev
