@@ -747,6 +747,7 @@ capital.eng.anduril.dev
 carddav-dev.it.anduril.dev
 carddav.it.anduril.dev
 careers.anduril.com
+cargo.mfx.andurildev.com
 cartographer-ui.security.anduril.dev
 cartographer.anduril.dev
 cascade.anduril.com
@@ -1666,6 +1667,7 @@ greenscreen.mdp-sandbox.eng.anduril.dev
 gremlins-agent.non-prod.eng.anduril.dev
 gremlins-headless.non-prod.eng.anduril.dev
 gremlins.non-prod.eng.anduril.dev
+grimm-gram.eng.anduril.dev
 grimm-gram.non-prod.eng.anduril.dev
 groundcover-ingest.metrics-dev.andurildev.com
 groundcover.metrics-dev.andurildev.com
@@ -1972,6 +1974,7 @@ jira-people.anduril.dev
 jira-stage-hdplus.corp.anduril.dev
 jira-stage-infosec.anduril.dev
 jira-stage.anduril.dev
+jira-test.anduril.au
 jira-vygr.anduril.dev
 jira.anduril.au
 jira.anduril.dev
@@ -2223,6 +2226,7 @@ marco-polo.non-prod.eng.anduril.dev
 marco-polo.qa.eng.anduril.dev
 marcus-dev.anduril.dev
 marcus.anduril.dev
+mario-hitl.andurildev.com
 mario.andurildev.com
 maritime-app-team-internal-tools.non-prod.eng.anduril.dev
 maritime-budget-forecast-staffing.non-prod.eng.anduril.dev
@@ -3270,6 +3274,7 @@ sitl.anduril.dev
 sitl.andurildev.au
 skycole-dsb.anduril.com
 skycole.anduril.com
+sl-front-integration.non-prod.eng.anduril.dev
 slack.agent-platform-dev.andurildev.com
 slackbot.anduril.dev
 slideflow.non-prod.eng.anduril.dev
@@ -3701,6 +3706,7 @@ uptime.andurildev.com
 urs-dev.andurildev.com
 urs-quality-qa.eng.anduril.dev
 urs-quality.non-prod.eng.anduril.dev
+urs-serpentine.andurildev.com
 urs-vrb-app-qa.eng.anduril.dev
 urs-vrb-app.non-prod.eng.anduril.dev
 us-gov-west-1a.ghe-test.anduril.dev
