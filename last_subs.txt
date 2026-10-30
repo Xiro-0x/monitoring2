@@ -8,6 +8,7 @@
 3p-ws-dev.anduril.com
 4waozxcf75-vpce-03f1ccecdc29af3fc.execute-api.us-gov-west-1.amazonaws.com.api.bild.anduril.dev
 4waozxcf75.execute-api.us-gov-west-1.amazonaws.com.api.bild.anduril.dev
+_dmarc.anduril.au
 a700-dashboard.eng.anduril.dev
 a700-dashboard.non-prod.eng.anduril.dev
 aa-etc-status-tool.non-prod.eng.anduril.dev
@@ -477,6 +478,7 @@ asset-calibration.andurildev.com
 asset-ingest.observability-dev.andurildev.com
 asset.agdsre-sandbox.anduril.com
 asset.anduril-gvsc-sdk.andurildev.com
+asset.kraken.anduril.com
 asset.md.anduril.com
 assets.developer.anduril.com
 assets.non-prod.eng.anduril.dev
@@ -624,6 +626,7 @@ birthcerts-prod.anduril.dev
 birthcerts.anduril.dev
 bl1.plm.anduril.dev
 bl2.plm.anduril.dev
+bladerunner-node-registry.non-prod.eng.anduril.dev
 blast-10.non-prod.eng.anduril.dev
 blast-radius.non-prod.eng.anduril.dev
 blog.anduril.com
@@ -1501,6 +1504,7 @@ forge-dev.itools-dev.anduril.dev
 forge-dev.sandbox.anduril.au
 forge-dev.sandbox.anduril.com.au
 forge-gateway.non-prod.eng.anduril.dev
+forge-guide-slackbot.non-prod.eng.anduril.dev
 forge-mirror-qa.eng.anduril.dev
 forge-mirror-stg.eng.anduril.dev
 forge-mirror.non-prod.eng.anduril.dev
