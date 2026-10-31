@@ -500,7 +500,6 @@ atlantis-okta.foundations-dev.anduril.dev
 atlantis-okta.foundations.anduril.dev
 atlantis-queue.atlantis.anduril.dev
 atlantis-queue.cloudos.andurildev.com
-atlantis-queue.cloudos.andurildev.com.cloudos.andurildev.com
 atlantis-queue.cloudos.cloudos.andurildev.com
 atlantis.anduril.dev
 atlantis.atlantis.anduril.dev
@@ -590,6 +589,7 @@ azure.foundations.anduril.dev
 backend.contenta.andurildev.au
 backup-lonestar.anduril.com
 ballast.network.anduril.dev
+bamboo-forest.anduril.dev
 bandit-dashboard.eng.anduril.dev
 bandit-dashboard.non-prod.eng.anduril.dev
 bandit.andurildev.com
@@ -1343,6 +1343,7 @@ erp.tc-staging.eng.anduril.dev
 erp.tc.eng.anduril.dev
 ersa.andurildev.com
 ess-dev.andurildev.com
+eu.prod.teleport.anduril.dev
 eud.akm.anduril.com
 eud.akm.sauron.anduril.com
 eudops-dev.akm.anduril.com
@@ -1505,7 +1506,6 @@ forge-dev.itools-dev.anduril.dev
 forge-dev.sandbox.anduril.au
 forge-dev.sandbox.anduril.com.au
 forge-gateway.non-prod.eng.anduril.dev
-forge-guide-slackbot.non-prod.eng.anduril.dev
 forge-mirror-qa.eng.anduril.dev
 forge-mirror-stg.eng.anduril.dev
 forge-mirror.non-prod.eng.anduril.dev
@@ -2095,6 +2095,7 @@ langfuse.mdp-sandbox.eng.anduril.dev
 laser-engraver-maritime.non-prod.eng.anduril.dev
 laser-engraver.non-prod.eng.anduril.dev
 last-test-otto.non-prod.eng.anduril.dev
+latest.agd.andurildev.com
 latex.mfx.andurildev.com
 lattice-ai.andurildev.com
 lattice-c2-bravo-1.andurildev.com
@@ -3276,7 +3277,6 @@ sie-dev2.andurildev.com
 sie-external-dev.andurildev.com
 sie-general.andurildev.com
 sie-manager.ssn-sie.anduril.com
-sie-sitlm.sitl-manager-dev.andurildev.com
 sie-staging.andurildev.com
 sie.anduril.au
 sie.anduril.dev
@@ -4021,6 +4021,7 @@ xacta.network.anduril.com
 xl-plexus.eng.anduril.dev
 xl-plexus.non-prod.eng.anduril.dev
 xl-plexus.stage.eng.anduril.dev
+xpressentry.anduril.dev
 xwiki.anduril.dev
 yellowstone-performers-tmp.andurildev.com
 yellowstone-performers.andurildev.com
