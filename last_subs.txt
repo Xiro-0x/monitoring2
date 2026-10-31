@@ -8,7 +8,6 @@
 3p-ws-dev.anduril.com
 4waozxcf75-vpce-03f1ccecdc29af3fc.execute-api.us-gov-west-1.amazonaws.com.api.bild.anduril.dev
 4waozxcf75.execute-api.us-gov-west-1.amazonaws.com.api.bild.anduril.dev
-_dmarc.anduril.au
 a700-dashboard.eng.anduril.dev
 a700-dashboard.non-prod.eng.anduril.dev
 aa-etc-status-tool.non-prod.eng.anduril.dev
@@ -602,6 +601,7 @@ bb.anduril.dev
 bcache.anduril.dev
 bct-service.non-prod.eng.anduril.dev
 bdr.anduril.com
+beacon.anduril.com
 beaconbot.itools-dev.anduril.dev
 beaconbot.itools.anduril.dev
 belsof.anduril.com
@@ -750,6 +750,7 @@ cadence.eng.anduril.dev
 cadence.non-prod.eng.anduril.dev
 cadence.qa.eng.anduril.dev
 cahntest.andurildev.com
+cahntestaws.andurildev.com
 caiman2.andurildev.com
 cameo.eng.anduril.dev
 cameo.tc.anduril.dev
@@ -2659,6 +2660,7 @@ otto2-jcg-app-new-all-envs.non-prod.eng.anduril.dev
 otto2-jcg-app-new.non-prod.eng.anduril.dev
 otto2-jcg-new.non-prod.eng.anduril.dev
 otto2-persist-probe.non-prod.eng.anduril.dev
+otto2-persist-probe.qa.eng.anduril.dev
 otto2-v2e2e-cap1.non-prod.eng.anduril.dev
 otto2-v2e2e-cap1.qa.eng.anduril.dev
 otto2-v2e2e-cap2.non-prod.eng.anduril.dev
@@ -3069,6 +3071,7 @@ roadrunner.anduril.dev
 rollouts.chidori-dev.eng.anduril.dev
 rollouts.chidori.eng.anduril.dev
 rolodex.anduril.dev
+root.anduril.com
 rosemary.anduril.com
 routing-diff.non-prod.eng.anduril.dev
 routing-diff.qa.eng.anduril.dev
@@ -3165,6 +3168,7 @@ satellite-c2.anduril.com
 satellite.redbud.anduril.dev
 satori.anduril.dev
 saturn.anduril.au
+saturn.anduril.com
 sauron-agent.non-prod.eng.anduril.dev
 sauron-qa.eng.anduril.dev
 sauron-stg.eng.anduril.dev
@@ -3695,6 +3699,7 @@ tracker.gov.united.anduril.dev
 training-dev.g5-irad.anduril.dev
 training.anduril.com
 training.g5-irad.anduril.dev
+trakaweb.anduril.dev
 travel-form-editor-qa.eng.anduril.dev
 travel-form-editor-stg.eng.anduril.dev
 travel-form-editor.eng.anduril.dev
