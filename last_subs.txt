@@ -43,6 +43,7 @@
 93dd71a.assets.preprod-design-system.grammarlyaws.com
 _dmarc.coda.io
 _dmarc.grammarly.com
+_dmarc.superhuman.com
 a11ada7.assets.preprod-design-system.grammarlyaws.com
 a4e072f5e3.preprod-design-system.grammarlyaws.com
 a5b9ac7.assets.preprod-design-system.grammarlyaws.com
@@ -649,7 +650,9 @@ email-link.superhuman.com
 email.coda.io
 email.gh-mail.coda.io
 email.grammarly.com
+email.link.superhuman.com
 email.recruiting.grammarly.com
+email.superhuman.com
 emailfeedback.grammarly.com
 embeddings-indexing.adhoc.coda.io
 embeddings-indexing.coda.io
@@ -2460,6 +2463,7 @@ superhuman-docs.femetrics.grammarly.io
 superhuman-drop.pplane.grammarly.io
 superhuman.com
 superhumanhub.femetrics.grammarly.io
+supplements.superhuman.com
 support-automations-k8s.subscription.grammarlyaws.com
 support-automations.subscription.grammarlyaws.com
 support.grammarly.com
