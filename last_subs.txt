@@ -41,7 +41,6 @@
 89b9931.assets.preprod-design-system.grammarlyaws.com
 8m96zhjt3x.grammarly.com
 93dd71a.assets.preprod-design-system.grammarlyaws.com
-_dmarc.grammarly.io
 a11ada7.assets.preprod-design-system.grammarlyaws.com
 a4e072f5e3.preprod-design-system.grammarlyaws.com
 a5b9ac7.assets.preprod-design-system.grammarlyaws.com
@@ -2291,7 +2290,6 @@ sm-scim-ext.qa-redwall.grammarlyaws.com
 smith-api.pplane.grammarly.io
 smith.pplane.grammarly.io
 snapshots.grammarly.io
-snapshots.snapshots.grammarly.io
 snippets.grammarly.com
 snippets.preprod-snippets.grammarlyaws.com
 snippets.prod-snippets.grammarlyaws.com
