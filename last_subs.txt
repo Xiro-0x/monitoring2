@@ -42,6 +42,7 @@
 8m96zhjt3x.grammarly.com
 93dd71a.assets.preprod-design-system.grammarlyaws.com
 _dmarc.coda.io
+_dmarc.superhuman.com
 a11ada7.assets.preprod-design-system.grammarlyaws.com
 a4e072f5e3.preprod-design-system.grammarlyaws.com
 a5b9ac7.assets.preprod-design-system.grammarlyaws.com
@@ -633,6 +634,7 @@ email.coda.io
 email.gh-mail.coda.io
 email.grammarly.com
 email.recruiting.grammarly.com
+email.superhuman.com
 emailfeedback.grammarly.com
 embeddings-indexing.adhoc.coda.io
 embeddings-indexing.coda.io
@@ -811,6 +813,7 @@ gitlab-webhook-opal.prod-ei-automations.grammarlyaws.com
 gitlab.common.grammarlyaws.com
 gitlab.grammarly.com
 gitlab.grammarly.io
+gitopser.prod-argocd.grammarlyaws.com
 glabs.prod-cheetah.grammarlyaws.com
 glean-ext-gitlab.grammarly.io
 gm.superhuman.com
@@ -1570,6 +1573,7 @@ prod-data-plane-green.core-prod.grammarlyaws.com
 prod-data-plane-green.prod-data-plane.grammarlyaws.com
 prod-data-plane.core-prod.grammarlyaws.com
 prod-data-plane.grammarlyaws.com
+prod-data-plane.prod-data-plane.grammarlyaws.com
 prod-data-platform.grammarlyaws.com
 prod-data-private-https.acquisition.grammarlyaws.com
 prod-data-private.acquisition.grammarlyaws.com
@@ -1798,6 +1802,7 @@ qa-analytics.grammarlyaws.com
 qa-android.grammarlyaws.com
 qa-anniversary-swag-store.grammarlyaws.com
 qa-artifactory.artifactory.qa-platform.grammarlyaws.com
+qa-artifactory.grammarlyaws.com
 qa-artifactory.platform.grammarlyaws.com
 qa-artur-demo-33.qa-platform.grammarlyaws.com
 qa-artur-demo-java.qa-platform.grammarlyaws.com
@@ -2002,6 +2007,7 @@ qa-payments-public-api.qa-billing.grammarlyaws.com
 qa-payments-webhooks.qa-billing.grammarlyaws.com
 qa-platform-green.qa-platform.grammarlyaws.com
 qa-platform.grammarlyaws.com
+qa-platform.qa-platform.grammarlyaws.com
 qa-poc-nodejs-api.sandbox.grammarlyaws.com
 qa-poc-nodejs-fargate-api.sandbox.grammarlyaws.com
 qa-privacy.qa-privacy.grammarlyaws.com
@@ -2315,6 +2321,8 @@ sso.grammarly.com
 sso.private.grammarly.com
 sso.superhuman.com
 st-acme-tp.coda.io
+st-t01-tp.coda.io
+st-t02-tp.coda.io
 staging-tp.coda.io
 staging-underline.qane.grammarly.com
 staging.coda.io
@@ -2527,6 +2535,7 @@ vpce-qa-airflow.qa-nlp-processing.grammarlyaws.com
 vpce-qa-apisix.qa-data-plane.grammarlyaws.com
 vpce-qa-artifactory.qa-platform.grammarlyaws.com
 vpce-qa-auth.qa-auth.grammarlyaws.com
+vpce-qa-common-api-wr-ins.qa-core.grammarlyaws.com
 vpce-qa-common-api.qa-data-plane.grammarlyaws.com
 vpce-qa-cortex-ui.qa-platform.grammarlyaws.com
 vpce-qa-datacat-red.qa-nlp-processing.grammarlyaws.com
