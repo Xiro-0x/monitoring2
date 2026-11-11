@@ -631,6 +631,7 @@ email-link.superhuman.com
 email.coda.io
 email.gh-mail.coda.io
 email.grammarly.com
+email.link.superhuman.com
 email.recruiting.grammarly.com
 emailfeedback.grammarly.com
 embeddings-indexing.adhoc.coda.io
@@ -2359,6 +2360,7 @@ superhuman-docs.femetrics.grammarly.io
 superhuman-drop.pplane.grammarly.io
 superhuman.com
 superhumanhub.femetrics.grammarly.io
+supplements.superhuman.com
 support-automations-k8s.subscription.grammarlyaws.com
 support-automations.subscription.grammarlyaws.com
 support.grammarly.com
@@ -2529,6 +2531,7 @@ vpce-qa-airflow.qa-nlp-processing.grammarlyaws.com
 vpce-qa-apisix.qa-data-plane.grammarlyaws.com
 vpce-qa-artifactory.qa-platform.grammarlyaws.com
 vpce-qa-auth.qa-auth.grammarlyaws.com
+vpce-qa-common-api-wr-ins.qa-core.grammarlyaws.com
 vpce-qa-common-api.qa-data-plane.grammarlyaws.com
 vpce-qa-cortex-ui.qa-platform.grammarlyaws.com
 vpce-qa-datacat-red.qa-nlp-processing.grammarlyaws.com
