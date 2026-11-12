@@ -631,7 +631,6 @@ email-link.superhuman.com
 email.coda.io
 email.gh-mail.coda.io
 email.grammarly.com
-email.link.superhuman.com
 email.recruiting.grammarly.com
 emailfeedback.grammarly.com
 embeddings-indexing.adhoc.coda.io
@@ -2360,7 +2359,6 @@ superhuman-docs.femetrics.grammarly.io
 superhuman-drop.pplane.grammarly.io
 superhuman.com
 superhumanhub.femetrics.grammarly.io
-supplements.superhuman.com
 support-automations-k8s.subscription.grammarlyaws.com
 support-automations.subscription.grammarlyaws.com
 support.grammarly.com
