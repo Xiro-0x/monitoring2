@@ -42,6 +42,7 @@
 8m96zhjt3x.grammarly.com
 93dd71a.assets.preprod-design-system.grammarlyaws.com
 _dmarc.grammarly.io
+_dmarc.superhuman.com
 a11ada7.assets.preprod-design-system.grammarlyaws.com
 a4e072f5e3.preprod-design-system.grammarlyaws.com
 a5b9ac7.assets.preprod-design-system.grammarlyaws.com
@@ -642,6 +643,7 @@ email.coda.io
 email.gh-mail.coda.io
 email.grammarly.com
 email.recruiting.grammarly.com
+email.superhuman.com
 emailfeedback.grammarly.com
 embeddings-indexing.adhoc.coda.io
 embeddings-indexing.coda.io
@@ -1873,6 +1875,7 @@ qa-data-warehouse.grammarlyaws.com
 qa-data.acquisition.grammarlyaws.com
 qa-datareport.private.subscription.grammarlyaws.com
 qa-datareport.subscription.grammarlyaws.com
+qa-deane.qa-prodsec.grammarlyaws.com
 qa-december-demo.qa-platform.grammarlyaws.com
 qa-demo-editor.acquisition.grammarlyaws.com
 qa-demo-golang-ecs.qa-platform.grammarlyaws.com
