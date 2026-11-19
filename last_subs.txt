@@ -42,7 +42,6 @@
 8m96zhjt3x.grammarly.com
 93dd71a.assets.preprod-design-system.grammarlyaws.com
 _dmarc.grammarly.io
-_dmarc.superhuman.com
 a11ada7.assets.preprod-design-system.grammarlyaws.com
 a4e072f5e3.preprod-design-system.grammarlyaws.com
 a5b9ac7.assets.preprod-design-system.grammarlyaws.com
@@ -643,7 +642,6 @@ email.coda.io
 email.gh-mail.coda.io
 email.grammarly.com
 email.recruiting.grammarly.com
-email.superhuman.com
 emailfeedback.grammarly.com
 embeddings-indexing.adhoc.coda.io
 embeddings-indexing.coda.io
@@ -742,7 +740,6 @@ feature-security-scanning.preprod-design-system.grammarlyaws.com
 feature-store-grpc.preprod-feature-store.grammarlyaws.com
 feature-store-grpc.prod-feature-store.grammarlyaws.com
 feature-store-grpc.qa-feature-store.grammarlyaws.com
-feature-store.preprod-feature-store.grammarlyaws.com
 feature-store.qa-feature-store.grammarlyaws.com
 features-docker.artifactory6.artifactory.grammarly.io
 features.grammarlyaws.com
@@ -2622,6 +2619,7 @@ www.blog.grammarly.com
 www.blog.superhuman.com
 www.coda.io
 www.dev.grammarly.com
+www.dev.grammarly.io
 www.dev.v.grammarly.com
 www.grammarly.com
 www.narnia.it.grammarlyaws.com
