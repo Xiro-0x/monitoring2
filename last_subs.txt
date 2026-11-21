@@ -41,7 +41,6 @@
 89b9931.assets.preprod-design-system.grammarlyaws.com
 8m96zhjt3x.grammarly.com
 93dd71a.assets.preprod-design-system.grammarlyaws.com
-_dmarc.codahosted.io
 a11ada7.assets.preprod-design-system.grammarlyaws.com
 a4e072f5e3.preprod-design-system.grammarlyaws.com
 a5b9ac7.assets.preprod-design-system.grammarlyaws.com
@@ -1574,7 +1573,6 @@ prod-data-plane-green.core-prod.grammarlyaws.com
 prod-data-plane-green.prod-data-plane.grammarlyaws.com
 prod-data-plane.core-prod.grammarlyaws.com
 prod-data-plane.grammarlyaws.com
-prod-data-plane.prod-data-plane.grammarlyaws.com
 prod-data-platform.grammarlyaws.com
 prod-data-private-https.acquisition.grammarlyaws.com
 prod-data-private.acquisition.grammarlyaws.com
@@ -2009,7 +2007,6 @@ qa-payments-public-api.qa-billing.grammarlyaws.com
 qa-payments-webhooks.qa-billing.grammarlyaws.com
 qa-platform-green.qa-platform.grammarlyaws.com
 qa-platform.grammarlyaws.com
-qa-platform.qa-platform.grammarlyaws.com
 qa-poc-nodejs-api.sandbox.grammarlyaws.com
 qa-poc-nodejs-fargate-api.sandbox.grammarlyaws.com
 qa-privacy.qa-privacy.grammarlyaws.com
@@ -2535,7 +2532,6 @@ vpce-qa-airflow.qa-nlp-processing.grammarlyaws.com
 vpce-qa-apisix.qa-data-plane.grammarlyaws.com
 vpce-qa-artifactory.qa-platform.grammarlyaws.com
 vpce-qa-auth.qa-auth.grammarlyaws.com
-vpce-qa-common-api-wr-ins.qa-core.grammarlyaws.com
 vpce-qa-common-api.qa-data-plane.grammarlyaws.com
 vpce-qa-cortex-ui.qa-platform.grammarlyaws.com
 vpce-qa-datacat-red.qa-nlp-processing.grammarlyaws.com
